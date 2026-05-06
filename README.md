@@ -42,7 +42,3 @@ Tulisan ini saya buat sebagai bagian dari proses belajar sekaligus upaya membang
 Ke depan, saya ingin terus mengembangkan kemampuan ini tidak hanya dari sisi teknis, tetapi juga dalam melihat bagaimana teknologi bisa relevan dan berdampak di dunia nyata.
 Tulisan ini disusun berdasarkan hasil review terhadap salah satu jurnal terkait pengembangan framework HiPER-Mpox.
 Karena pada akhirnya, teknologi yang baik bukan yang paling canggih tetapi yang benar-benar bisa digunakan.
-
-
-#ArtificialIntelligence #AIHealthcare #MachineLearning #EdgeComputing #IoT #CloudComputing #DigitalHealth #TechForGood #StudentPortfolio #BelajarAI #TeknologiKesehatan #FutureTechnology #DataScience #AIIndonesia
-#ArtificialIntelligence #AIHealthcare #MachineLearning #EdgeComputing #IoT #CloudComputing #DigitalHealth #TechForGood #StudentPortfolio #BelajarAI #TeknologiKesehatan #FutureTechnology #DataScience #AIIndonesia
