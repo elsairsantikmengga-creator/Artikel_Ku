@@ -37,8 +37,7 @@ Pendekatan IoT–Edge–Cloud ini menurut saya bisa menjadi salah satu solusi ya
 
 **Penutup**
 
-Melalui proses ini, saya juga belajar bahwa membangun AI bukan hanya soal membuat model yang kompleks, tetapi tentang bagaimana teknologi tersebut bisa benar-benar digunakan dan memberikan manfaat nyata.
-Tulisan ini saya buat sebagai bagian dari proses belajar sekaligus upaya membangun portofolio, khususnya dalam memahami dan menyampaikan kembali isi jurnal ilmiah dengan cara yang lebih sederhana dan komunikatif.
-Ke depan, saya ingin terus mengembangkan kemampuan ini tidak hanya dari sisi teknis, tetapi juga dalam melihat bagaimana teknologi bisa relevan dan berdampak di dunia nyata.
-Tulisan ini disusun berdasarkan hasil review terhadap salah satu jurnal terkait pengembangan framework HiPER-Mpox.
-Karena pada akhirnya, teknologi yang baik bukan yang paling canggih tetapi yang benar-benar bisa digunakan.
+Melalui proses ini, saya semakin memahami bahwa membangun AI bukan hanya soal membuat model yang kompleks atau mencapai akurasi setinggi mungkin, tetapi tentang bagaimana teknologi tersebut bisa benar-benar digunakan dan memberikan manfaat nyata.
+Pendekatan seperti IoT–Edge–Cloud menunjukkan bahwa keseimbangan antara kecerdasan, efisiensi, dan aksesibilitas adalah hal yang penting, terutama di bidang kesehatan yang sangat bergantung pada kecepatan dan kemudahan akses.
+Tulisan ini saya susun berdasarkan hasil membaca dan mereview sebuah jurnal yang membahas pengembangan framework HiPER-Mpox untuk deteksi penyakit berbasis AI, sekaligus sebagai bagian dari proses belajar saya dalam memahami dan menyampaikan kembali isi penelitian dengan cara yang lebih sederhana dan mudah dipahami.
+Karena pada akhirnya, teknologi yang baik bukan hanya yang paling canggih, tetapi yang benar-benar bisa digunakan dan memberikan dampak di dunia nyata.
