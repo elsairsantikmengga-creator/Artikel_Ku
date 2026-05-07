@@ -1,56 +1,47 @@
-# Artikel_Ku
-Membangun Sistem AI Kesehatan yang Ringan dan Siap Digunakan: Studi pada Framework IoT–Edge–Cloud
+# 🚀 Membangun Sistem AI Kesehatan yang Ringan dan Siap Digunakan
 
-_`Oleh: Elsa Irsanti Kristiana Mengga`_
+## Studi pada Framework IoT–Edge–Cloud  
+### _Oleh: Elsa Irsanti Kristiana Mengga_
 
-**AI yang Pintar Tapi Belum Tentu Bisa Dipakai di Dunia Nyata**
+---
 
-Kita sering bangga dengan AI yang “pintar”, tapi jarang bertanya: apakah AI itu benar-benar bisa dipakai?
+## 📌 Ringkasan Analisis
 
-Bagaimana kalau sistem AI yang akurasinya tinggi… justru tidak bisa digunakan?
+Di tengah pesatnya perkembangan Artificial Intelligence (AI) di bidang kesehatan, masih banyak sistem yang terlihat “sempurna” di atas kertas tetapi sulit digunakan dalam kondisi nyata. Keterbatasan perangkat, jaringan, dan sumber daya sering kali membuat teknologi canggih menjadi tidak mudah diakses oleh semua orang.
 
-Pertanyaan ini muncul setelah saya membaca dan mereview sebuah penelitian tentang AI di bidang kesehatan.
-Selama ini, kita sering menganggap bahwa semakin tinggi akurasi, maka semakin baik sebuah sistem. Tapi ternyata, di dunia nyata, tidak sesederhana itu.
+Repositori ini membahas hasil review penelitian mengenai framework **HiPER-Mpox** berbasis **IoT–Edge–Cloud** yang dirancang untuk membangun sistem AI kesehatan yang lebih ringan, efisien, dan realistis digunakan. Melalui pendekatan ini, proses pengolahan data dibagi antara perangkat IoT, edge computing, dan cloud computing untuk meningkatkan kecepatan respon serta mengurangi ketergantungan terhadap infrastruktur besar.
 
-**Masalah di Balik AI yang “Sempurna di Atas Kertas”**
+Bagi saya, penelitian ini menunjukkan bahwa teknologi yang baik bukan hanya tentang seberapa tinggi akurasinya, tetapi tentang bagaimana teknologi tersebut benar-benar bisa membantu dan digunakan oleh banyak orang di dunia nyata.
 
-Banyak model AI memang menunjukkan performa yang sangat baik di atas kertas. Namun di sisi lain, model tersebut sering kali membutuhkan sumber daya yang besar mulai dari komputasi, penyimpanan, hingga infrastruktur yang tidak selalu tersedia di semua tempat.
-Di sinilah saya mulai melihat masalahnya.
+---
 
-Teknologi yang seharusnya membantu, justru bisa menjadi sulit diakses.
-Dari situ, saya mulai berpikir: mungkin yang kita butuhkan bukan hanya AI yang “pintar”, tetapi juga AI yang ringan, efisien, dan benar-benar bisa digunakan dalam kondisi nyata.
+## 💡 Key Insights
 
-**Pendekatan IoT – Edge – Cloud**
+- Akurasi tinggi tidak selalu berarti siap digunakan
+- Edge computing membantu mengurangi latency
+- AI kesehatan perlu efisiensi dan aksesibilitas
+- IoT–Edge–Cloud membuat sistem lebih fleksibel
 
-Salah satu pendekatan yang menurut saya cukup menarik adalah arsitektur IoT–Edge–Cloud. Dalam pendekatan ini, proses tidak hanya terpusat di cloud, tetapi dibagi menjadi beberapa bagian.
-Perangkat IoT digunakan untuk mengumpulkan data secara langsung.
+---
 
-Kemudian, edge computing menangani pemrosesan awal secara lokal, sehingga respon bisa lebih cepat dan tidak terlalu bergantung pada jaringan. Sementara itu, cloud digunakan untuk analisis yang lebih kompleks.
+## 🖼️ Pratinjau Visual
 
-Pendekatan ini membuat sistem menjadi lebih fleksibel, sekaligus membantu mengurangi latency dan meningkatkan efisiensi.
+![Preview Framework](ai-healthcare-preview.jpeg)
 
-**Studi Kasus: HiPER-Mpox Framework**
+---
 
-Konsep ini diterapkan dalam sebuah framework bernama HiPER-Mpox, yang digunakan untuk mendeteksi penyakit Mpox melalui citra lesi kulit secara real-time. Yang menarik bagi saya bukan hanya hasil akhirnya, tetapi bagaimana sistem ini dirancang dengan mempertimbangkan berbagai aspek secara seimbang.
+## 📂 Lampiran Dokumen
 
-Model yang digunakan mampu mencapai akurasi sekitar 96% dengan nilai ROC-AUC hingga 0.98. Selain itu, ukuran modelnya juga cukup ringan, hanya sekitar 2 MB, dan waktu pemrosesannya sekitar setengah detik per gambar.
-Artinya, sistem ini tidak hanya “cerdas”, tetapi juga realistis untuk diterapkan, bahkan pada perangkat dengan keterbatasan tertentu.
+📄 [Download Artikel Jurnal](Artikel_Jurnal_Elsa%20Irsanti%20K.%20Mengga.pdf)
 
-**Pelajaran yang Bisa Diambil**
+📄 [Download Jurnal Review](Jurnal%20Riview%20-%20Elsa%20Irsanti%20K.%20Mengga.pdf)
 
-Dari sini, saya semakin memahami bahwa dalam pengembangan AI, angka bukanlah segalanya.
-Akurasi memang penting, tetapi kegunaan dan aksesibilitas juga tidak kalah penting.
+---
 
-Sistem yang sangat akurat tetapi sulit digunakan, pada akhirnya tidak akan memberikan dampak yang maksimal terutama di bidang kesehatan yang sangat bergantung pada kecepatan dan kemudahan akses.
+## 📚 Referensi Jurnal
 
-Pendekatan IoT–Edge–Cloud ini menurut saya bisa menjadi salah satu solusi yang cukup menjanjikan untuk menjembatani kebutuhan antara teknologi canggih dan kondisi nyata di lapangan.
+> Gabriel, C. I.-O., Kumar, R., & Kumar, P. (2026).  
+> *A lightweight IoT–edge–cloud framework for Healthcare Internet of Things.*  
+> **Ad Hoc Networks**, 187, 104226.
 
-**Penutup**
-
-Melalui proses ini, saya semakin memahami bahwa membangun AI bukan hanya soal membuat model yang kompleks atau mencapai akurasi setinggi mungkin, tetapi tentang bagaimana teknologi tersebut bisa benar-benar digunakan dan memberikan manfaat nyata.
-
-Pendekatan seperti IoT–Edge–Cloud menunjukkan bahwa keseimbangan antara kecerdasan, efisiensi, dan aksesibilitas adalah hal yang penting, terutama di bidang kesehatan yang sangat bergantung pada kecepatan dan kemudahan akses.
-
-Tulisan ini saya susun berdasarkan hasil membaca dan mereview sebuah jurnal yang membahas pengembangan framework HiPER-Mpox untuk deteksi penyakit berbasis AI, sekaligus sebagai bagian dari proses belajar saya dalam memahami dan menyampaikan kembali isi penelitian dengan cara yang lebih sederhana dan mudah dipahami.
-
-Karena pada akhirnya, teknologi yang baik bukan hanya yang paling canggih, tetapi yang benar-benar bisa digunakan dan memberikan dampak di dunia nyata.
+🔗 [ScienceDirect Journal Link](https://doi.org/10.1016/j.adhoc.2026.104226)
