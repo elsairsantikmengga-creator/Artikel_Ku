@@ -42,7 +42,7 @@ Bagi saya, penelitian ini menunjukkan bahwa teknologi yang baik bukan hanya tent
 ## 📚 Referensi Jurnal
 
 **A lightweight IoT–edge–cloud framework for Healthcare Internet of Things**  
-Gabriel, C. I.-O., Kumar, R., & Kumar, P. (2026).  
+Cephas Iko-Ojo Gabriel, Randhir Kumar, & Prabhat Kumar. (2026).  
 *Ad Hoc Networks*, 187, 104226.
 
 Link Jurnal:  
